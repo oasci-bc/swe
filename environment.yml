@@ -1,0 +1,12 @@
+name: swe-bc-dev
+channels:
+  - defaults
+dependencies:
+  - python=3.12.1
+  - conda-lock
+  - poetry
+  - pre-commit
+  - tomli
+  - tomli-w
+  - conda-poetry-liaison
+  - nodejs
