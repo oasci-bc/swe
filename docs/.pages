@@ -1,4 +1,9 @@
 nav:
     - Home: index.md
-    - 0.0 Introduction: intro
+    - Introduction: intro
+    - Version control: vc
+    - Code organization: design
+    - Testing and debugging: testing
+    - Documentation: doc
+    - Open-source software: oss
     - Appendices: appendices
