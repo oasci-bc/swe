@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "swe-bc"
 version = "0.0.0"
-description = "High-performance computing Breadcrumbs"
+description = "Software Engineering Breadcrumbs"
 authors = [
     "OASCI <us@oasci.org>",
 ]
